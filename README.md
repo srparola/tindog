@@ -1,2 +1,1 @@
-# tindog
-tindogw web site test
+TinDog Starting Files
